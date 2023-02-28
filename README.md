@@ -1,4 +1,4 @@
-# netd
+# netd v2
 
 netd is a Daemon designed to provide networking related features on GCP.
 The initial version is to generate CNI Spec for PTP plugin based on PodCIDR
